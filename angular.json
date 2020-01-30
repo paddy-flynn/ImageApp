@@ -26,7 +26,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/app/imageMapResizer.js",
+              "node_modules/jquery/dist/jquery.js"
+            ]
           },
           "configurations": {
             "production": {
